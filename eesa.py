@@ -16,7 +16,7 @@ except ModuleNotFoundError:
     os.system('python run.py')
 import uuid
 import os,sys,time,json,random,re,string,platform,base64
-os.system('xdg-open https://www.facebook.com/profile.php?id=100074787907402')
+os.system('xdg-open https://www.facebook.com/profile.php?id=')
 try:
     import requests
     from concurrent.futures import ThreadPoolExecutor as ThreadPool
